@@ -1,0 +1,12 @@
+.head{
+    display: flex;
+    flex-direction: row;
+}
+#image{
+    margin: 10px 10px 10px 10px;
+}
+#image>img
+{
+    height: 100px;
+    width: 100px;
+}
